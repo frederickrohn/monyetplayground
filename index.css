@@ -9,6 +9,11 @@
     border-color: black;
 }
 
+a{
+    display: flex;
+    justify-content: center;
+}
+
 #stats{
     border: solid;
     border-color: black;
