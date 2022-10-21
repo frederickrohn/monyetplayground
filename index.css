@@ -1,0 +1,16 @@
+.row{
+    display: flex;
+    
+}
+
+.column{
+    flex: 50%;
+    border: solid;
+    border-color: black;
+}
+
+#stats{
+    border: solid;
+    border-color: black;
+    width: 1000px;
+}
