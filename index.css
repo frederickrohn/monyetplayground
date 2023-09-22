@@ -61,3 +61,8 @@ a{
     margin: auto;
 }
 
+#photo-profile-box{
+    background-color: #212121;
+    height: 600px;
+}
+
