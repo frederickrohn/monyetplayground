@@ -80,6 +80,6 @@ a{
     margin: auto;
     max-height: 500px;
     max-width: 750px;
-    animation: fadeIn 2s;
+    animation: fadeIn 10s;
 }
 
