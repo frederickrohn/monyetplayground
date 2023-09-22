@@ -64,5 +64,6 @@ a{
 #photo-profile-box{
     background-color: #212121;
     height: 600px;
+    margin: auto;
 }
 
