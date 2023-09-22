@@ -65,8 +65,8 @@ a{
     background-color: #212121;
     height: 600px;
     margin: auto;
-    display: flex;
-    animation: fadeIn 2s;
+    display: flex; /* this aligns it to the center idk why*/
+    
 }
 
 @keyframes fadeIn{
@@ -80,5 +80,6 @@ a{
     margin: auto;
     max-height: 500px;
     max-width: 750px;
+    animation: fadeIn 2s;
 }
 
