@@ -67,3 +67,9 @@ a{
     margin: auto;
 }
 
+#photo-profile{
+    display: block;
+    width: 60%;
+    margin: auto;
+}
+
