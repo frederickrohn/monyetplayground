@@ -96,13 +96,13 @@ a{
 }
 
 .white-box{
-    background-color: #BFBFBF;
-    color: #212121;
+    background-color: white;
+    color: black;
 }
 
 .black-box{
-    background-color: #212121;
-    color: #dadada;
+    background-color: black;
+    color: white;
 }
 
 .column{
@@ -115,7 +115,7 @@ a{
 }
 
 #photo-profile-box{
-    background-color: #212121;
+    background-color: white;
     height: 600px;
     margin: auto;
     display: flex; /* this aligns it to the center idk why*/
